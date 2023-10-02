@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T13:19:50.986Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="lbKZ5KbYELp37i6w7zPc" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T13:32:37.855Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="0_tV8dknOODFSh8AE41R" version="22.0.0" type="github">
   <diagram name="Page-1" id="ZFZNMDQ-Nj2fwGIMhTO-">
-    <mxGraphModel dx="2307" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1689" dy="1592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1060,7 +1060,7 @@
             <mxRectangle width="87" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-61" value="Release add-on" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-59">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-61" value="Ear profit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-59">
           <mxGeometry x="87" width="233" height="30" as="geometry">
             <mxRectangle width="233" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1073,7 +1073,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-64" value="&lt;font size=&quot;1&quot;&gt;Developer want release their add-on to marketplace&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-62">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-64" value="&lt;font size=&quot;1&quot;&gt;Developer want profit for their published add-on&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-62">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1086,7 +1086,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-67" value="Let user install any add-on available on the Google Workspace marketplace" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-65">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-67" value="Developer can charge their app" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-65">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1112,7 +1112,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-73" value="Go thought the publishing process&lt;strong&gt; &lt;/strong&gt;on Google Workspace Marketplace&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-71">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-73" value="successfully publish an add-on to Google Workspace Marketplace" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-71">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1125,7 +1125,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-76" value="Earn profit" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-74">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-76" value="Release add-on" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-74">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1138,7 +1138,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-79" value="&lt;div&gt;a Google Cloud project,&lt;/div&gt;&lt;div&gt;app must meet all Marketplace review criteria&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-77">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-79" value="Have an add-on ready to publish" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-77">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1151,7 +1151,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-82" value="Add-on were available on the listing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-80">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-82" value="Developer earn their profit from their app" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-80">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1164,7 +1164,7 @@
             <mxRectangle width="87" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X0Kz6yLI6F8lgeVqioZE-85" value="&lt;div&gt;1.Create a Google Cloud project &lt;br&gt;&lt;/div&gt;&lt;div&gt;2.Configure OAuth for your app.&lt;/div&gt;&lt;div&gt;3.Enable the Google Workspace Marketplace SDK&lt;/div&gt;&lt;div&gt;4.Create a store listing&lt;/div&gt;&lt;div&gt;5. Submit app to be published.&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-83">
+        <mxCell id="X0Kz6yLI6F8lgeVqioZE-85" value="&lt;div&gt;1.Create a store listing with a price tag&lt;/div&gt;&lt;div&gt;2. Submit app to be published.&lt;/div&gt;&lt;div&gt;3.Add-on were purchase by user&lt;/div&gt;&lt;div&gt;4. Developer gain profit for their transaction&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" vertex="1" parent="X0Kz6yLI6F8lgeVqioZE-83">
           <mxGeometry x="87" width="233" height="100" as="geometry">
             <mxRectangle width="233" height="100" as="alternateBounds" />
           </mxGeometry>
