@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T02:27:53.763Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="WwA4ooHu7qpXxMweOLUo" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T04:43:24.687Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="kL-emZCqn0SwyxRcccNM" version="22.0.1" type="github">
   <diagram name="Page-1" id="ZFZNMDQ-Nj2fwGIMhTO-">
     <mxGraphModel dx="1509" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,13 +39,6 @@
         </mxCell>
         <mxCell id="9420kmqU3tQKIzeqtF9q-12" value="Select role " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="-840" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9420kmqU3tQKIzeqtF9q-16" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0.052;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9420kmqU3tQKIzeqtF9q-3" target="9420kmqU3tQKIzeqtF9q-12" edge="1">
-          <mxGeometry x="0.0011" y="-3" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="259.9999999999999" y="-820" as="sourcePoint" />
-            <mxPoint x="305.89744075829367" y="-717.52" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="9420kmqU3tQKIzeqtF9q-17" value="File permission" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1030" y="110" width="230" height="30" as="geometry" />
@@ -1554,7 +1547,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-35" value="&lt;font size=&quot;1&quot;&gt;Owner want to only selected person have access to their presentation&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="zZpx4YLuF6776GLbfaKI-33" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-35" value="&lt;font size=&quot;1&quot;&gt;Owner want to decide want people can do if they have access&lt;br&gt;&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" parent="zZpx4YLuF6776GLbfaKI-33" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1567,7 +1560,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-38" value="User can choose each individual or a group or everyone to have access " style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-36" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-38" value="This use case let owner set people role as Editor, Commenter, Viewer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-36" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1593,7 +1586,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-44" value="User search for people email in the sharing search box" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-42" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-44" value="User click the drop-down menu on accessibility setting" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-42" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1606,7 +1599,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-47" value="Accessibility setting" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-45" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-47" value="Select person with access" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-45" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1619,7 +1612,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-50" value="Accessibility setting is opened, knowing email of person want to share with" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-48" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-50" value="There are more than one person (owner) have access to the file" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-48" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1632,7 +1625,7 @@
             <mxRectangle width="87" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-53" value="Only selected person have access to the file" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-51" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-53" value="People with access can only do what allow to" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-51" vertex="1">
           <mxGeometry x="87" width="233" height="40" as="geometry">
             <mxRectangle width="233" height="40" as="alternateBounds" />
           </mxGeometry>
@@ -1645,9 +1638,15 @@
             <mxRectangle width="87" height="100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZpx4YLuF6776GLbfaKI-56" value="&lt;div&gt;1.When accessibility setting is open, type email of person the owner want to share with.&lt;/div&gt;&lt;div&gt;2. Alternatively, with choose only people in the same collaboration can have access&lt;br&gt; &lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-54" vertex="1">
+        <mxCell id="zZpx4YLuF6776GLbfaKI-56" value="&lt;div&gt;1. User click the drop-down menu on accessibility setting&lt;/div&gt;&lt;div&gt;2. User choose between Editor, Commenter, Viewer in the option&lt;/div&gt;&lt;div&gt;3. Drop-down menu automatically close with the option selected&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=10;" parent="zZpx4YLuF6776GLbfaKI-54" vertex="1">
           <mxGeometry x="87" width="233" height="100" as="geometry">
             <mxRectangle width="233" height="100" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DpE0xUCkYpCB1OhN2agW-5" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="9420kmqU3tQKIzeqtF9q-12" target="9420kmqU3tQKIzeqtF9q-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-760" as="sourcePoint" />
+            <mxPoint x="370" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
