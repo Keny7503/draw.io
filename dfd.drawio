@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T02:44:00.929Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="f_3V4kzV5lbiIGLhXb5W" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T02:46:59.793Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="UkSsNnXBDRydXedPnX2_" version="24.0.7" type="github">
   <diagram name="Page-1" id="-aXR3FrqBCDi08cUt0UD">
-    <mxGraphModel dx="979" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="811" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,17 +366,17 @@
           <mxGeometry x="550" y="1150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-81" value="3.2 Update Book Entry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1200" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="1257.49" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-82" value="3.4 Search Book Entry" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="1300" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="1357.49" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="pVhsyQmwhBmhRLSk4NZo-79" target="pVhsyQmwhBmhRLSk4NZo-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="1125" as="sourcePoint" />
             <mxPoint x="560" y="1195" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1225" />
+              <mxPoint x="520" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -385,7 +385,7 @@
             <mxPoint x="530" y="1125" as="sourcePoint" />
             <mxPoint x="560" y="1295" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1320" />
+              <mxPoint x="520" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -476,14 +476,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0SytIEGFfIwsz0rce6hZ-3" value="3.2&amp;nbsp;Delete Book Entry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1250" width="160" height="40" as="geometry" />
+          <mxGeometry x="560" y="1307.49" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0SytIEGFfIwsz0rce6hZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="1160" as="sourcePoint" />
             <mxPoint x="550" y="1270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1270" />
+              <mxPoint x="520" y="1330" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -689,6 +689,17 @@
             <mxPoint x="1250" y="1237.71" as="sourcePoint" />
             <mxPoint x="1280" y="1297.24" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="1230" />
+            </Array>
+            <mxPoint x="560" y="1190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-46" value="3.1.1 Add Book Entry Detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1199.98" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
