@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T02:19:49.479Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="pl8bBPuvmXUs6NocfFIi" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T02:44:00.929Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="f_3V4kzV5lbiIGLhXb5W" version="24.0.7" type="github">
   <diagram name="Page-1" id="-aXR3FrqBCDi08cUt0UD">
-    <mxGraphModel dx="676" dy="361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,33 +406,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVhsyQmwhBmhRLSk4NZo-87" value="4.Manage Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pVhsyQmwhBmhRLSk4NZo-87" value="4.Book sales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="750" y="1055" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-88" value="4.1 Add new Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="1150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-89" value="4.2 Update Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1200" width="160" height="40" as="geometry" />
+          <mxGeometry x="790" y="1698.45" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-90" value="4.4 Search Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="1300" width="160" height="40" as="geometry" />
+          <mxGeometry x="790" y="1798.45" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pVhsyQmwhBmhRLSk4NZo-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="pVhsyQmwhBmhRLSk4NZo-87" target="pVhsyQmwhBmhRLSk4NZo-89" edge="1">
+        <mxCell id="pVhsyQmwhBmhRLSk4NZo-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" target="pVhsyQmwhBmhRLSk4NZo-89" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="1125" as="sourcePoint" />
-            <mxPoint x="800" y="1195" as="targetPoint" />
+            <mxPoint x="760" y="1613.45" as="sourcePoint" />
+            <mxPoint x="800" y="1693.45" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="1225" />
+              <mxPoint x="760" y="1723.45" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="pVhsyQmwhBmhRLSk4NZo-87" target="pVhsyQmwhBmhRLSk4NZo-90" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770" y="1125" as="sourcePoint" />
-            <mxPoint x="800" y="1295" as="targetPoint" />
+            <mxPoint x="755" y="1160" as="sourcePoint" />
+            <mxPoint x="800" y="1793.45" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="1320" />
+              <mxPoint x="760" y="1818" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,15 +446,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pVhsyQmwhBmhRLSk4NZo-94" value="4.Assign Academic Advising" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="1054.98" width="200" height="60" as="geometry" />
+        <mxCell id="pVhsyQmwhBmhRLSk4NZo-94" value="6. Authentication" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="1052.47" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pVhsyQmwhBmhRLSk4NZo-95" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="pVhsyQmwhBmhRLSk4NZo-94" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="1055" as="sourcePoint" />
             <mxPoint x="540" y="980" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1220" y="1010" />
+              <mxPoint x="1330" y="1010" />
               <mxPoint x="530" y="1010" />
               <mxPoint x="530" y="980" />
             </Array>
@@ -475,7 +475,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0SytIEGFfIwsz0rce6hZ-3" value="3.2 Update Book Entry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-3" value="3.2&amp;nbsp;Delete Book Entry" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="1250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0SytIEGFfIwsz0rce6hZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
@@ -487,8 +487,208 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0SytIEGFfIwsz0rce6hZ-8" value="4.3 Update Invoice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1250" width="160" height="40" as="geometry" />
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-8" value="4.3&amp;nbsp;Delete Invoice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1748.45" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0SytIEGFfIwsz0rce6hZ-10" target="0SytIEGFfIwsz0rce6hZ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="1172.49" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-10" value="5.Manage Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1052.49" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-11" value="4.1 Add new Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1147.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-12" value="4.2 Update Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1197.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-13" value="4.3 Search Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1247.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0SytIEGFfIwsz0rce6hZ-10" target="0SytIEGFfIwsz0rce6hZ-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="1122.49" as="sourcePoint" />
+            <mxPoint x="1070" y="1192.49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="1222.49" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0SytIEGFfIwsz0rce6hZ-10" target="0SytIEGFfIwsz0rce6hZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="1122.49" as="sourcePoint" />
+            <mxPoint x="1070" y="1292.49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="1267.49" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-17" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0SytIEGFfIwsz0rce6hZ-10" target="pVhsyQmwhBmhRLSk4NZo-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="1065" as="sourcePoint" />
+            <mxPoint x="550" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="1010" />
+              <mxPoint x="530" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="1172.47" />
+            </Array>
+            <mxPoint x="1250" y="1112.47" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-19" value="6.1 Employee account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1147.47" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-21" source="0SytIEGFfIwsz0rce6hZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="1222.49" />
+            </Array>
+            <mxPoint x="1280" y="1162.49" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-21" value="6.1.1 Employee account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1197.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1663.43" as="sourcePoint" />
+            <mxPoint x="790" y="1773.43" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1773.43" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-24" source="pVhsyQmwhBmhRLSk4NZo-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1222" />
+            </Array>
+            <mxPoint x="790" y="1162.49" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-24" value="4.1.1 Insert Invoice Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1197.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1269.49" />
+            </Array>
+            <mxPoint x="800" y="1220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-26" value="4.1.2 Insert Date of Invoice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1247.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1319.49" />
+            </Array>
+            <mxPoint x="800" y="1270" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-28" value="4.1.3 Insert Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1297.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1369.49" />
+            </Array>
+            <mxPoint x="800" y="1320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-30" value="4.1.4 Insert Invoice Detail" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1347.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-32" source="0SytIEGFfIwsz0rce6hZ-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1419" />
+            </Array>
+            <mxPoint x="830" y="1370" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-32" value="4.1.4.1 Insert Book ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1397.49" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1469.49" />
+            </Array>
+            <mxPoint x="830" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-34" value="4.1.4.2 Insert Book Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1447.98" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1519.49" />
+            </Array>
+            <mxPoint x="830" y="1450" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-36" value="4.1.4.3 Insert Quantity" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1497.98" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1567.47" />
+            </Array>
+            <mxPoint x="830" y="1497.98" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-38" value="4.1.4.4 Insert Sale&lt;br&gt;Unit Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1545.96" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="0SytIEGFfIwsz0rce6hZ-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1635.45" />
+            </Array>
+            <mxPoint x="800" y="1360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-40" value="4.1.5 Update stock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1613.45" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-41" value="6.2 Admin account" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0SytIEGFfIwsz0rce6hZ-41" target="0SytIEGFfIwsz0rce6hZ-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="1345.02" />
+            </Array>
+            <mxPoint x="1280" y="1285.02" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-43" value="6.1.1 Manage Employee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="1320.02" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0SytIEGFfIwsz0rce6hZ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="pVhsyQmwhBmhRLSk4NZo-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1250" y="1297" />
+            </Array>
+            <mxPoint x="1250" y="1237.71" as="sourcePoint" />
+            <mxPoint x="1280" y="1297.24" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
